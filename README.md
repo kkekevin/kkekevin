@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kkekevin
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ordering systems
+- 👀 I’m interested in web development and data analysis
+- 🌱 I’m currently learning java and database
+- 💞️ I’m looking to collaborate on data analysis in chemical analysis and design of websites
 - 📫 How to reach me, @alexandrekevin3
 
 <!---
