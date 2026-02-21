@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kkekevin
-- 👀 I’m interested in web development and data analysis
-- 🌱 I’m currently learning php, nodejs with express and database(mongodb)
-- 💞️ I’m looking to collaborate on data analysis in chemical analysis and web programming
+- 👋 Hi, I’m @kkekevin, chemistry and computer engineering student
+- 👀 I’m interested in embedded systems and cloud computing
+- 🌱 I’m currently working with nodejs, aws and embedded systems
+- 💞️ I’m looking to collaborate on IIoT, control and automation
 - 📫 How to reach me, @alexandrekevin3
 
 <!---
